@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  codespace no line wrap in pullrequest diff
 // @author       RadLabSD
-// @updateSite   https://github.com/radlab24/Scripts/master/BitBucketPRNoLineWrap.js
-// @downloadURL  https://github.com/radlab24/Scripts/master/BitBucketPRNoLineWrap.js
+// @updateSite   https://github.com/radlab24/Scripts/raw/main/BitBucketPRNoLineWrap.user.js
+// @downloadURL  https://github.com/radlab24/Scripts/raw/main/BitBucketPRNoLineWrap.user.js
 // @match        https://codespace.lhsystems.int/projects/LIDO_ERM/repos/erm-implementation/pull-requests/*/diff*
 // @grant        none
 // ==/UserScript==
